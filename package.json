@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sta-ger/TheBot.git"
+    "url": "https://github.com/sta-ger/HalfBeer.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/sta-ger/sta-ger.bitbucket.io#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
